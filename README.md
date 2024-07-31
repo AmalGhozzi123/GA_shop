@@ -8,7 +8,7 @@ The **GA_shop** project is a practical and functional online store platform deve
 - **Wide selection of products**: Offer a variety of quality products at competitive prices. 📦
 - **Efficient management**: Provide an administrative system for managing orders and inventory. 🗃️
 
-## 🌍 Project Context and Definition
+## 🌍 Project Context 
 The **GA_shop** project aims to create an online store website that provides a pleasant and convenient shopping experience. It offers a broad range of products, ensuring intuitive and smooth navigation for users. 🚀
 
 ## 📌 Actors
