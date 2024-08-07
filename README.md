@@ -34,3 +34,5 @@ The **GA_shop** project aims to create an online store website that provides a p
 ## 🛠️ Technologies Used
 - **Software Environment**: Visual Studio Code, StarUML, Google Chrome, XAMPP. 💻
 - **Languages and Tools**: PHP, SQL, Bootstrap, JavaScript. 🛠️
+## 🧩 Additional Information
+Feel free to modify and extend this project to suit your needs. If you encounter any issues or need further assistance, you can contact me at `amalghozzi@outlook.com`.
